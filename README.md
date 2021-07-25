@@ -1,4 +1,4 @@
-### Hello World! 👋 I am **Soham Shah**!! 😈
+### Hello World! 👋 I am *Soham Shah* !! :bowtie:
 
 - :computer: I code using Python and JavaScript 
 - 🌱 I’m currently enrolled at University of Windsor in Masters of Applied Computing Course (Canada).
