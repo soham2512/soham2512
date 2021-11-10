@@ -2,8 +2,8 @@
 
 - :computer: I code using Python and JavaScript 
 - 🌱 I’m currently enrolled at University of Windsor in Masters of Applied Computing Course (Canada).
-- 🗣 I’m also Machine Learning Enthusiast and fond of React.  
-- 👯 I'm also open for collaborations related to project/community.
+- 🗣 I’m a Machine Learning Enthusiast and fond of React.  
+- 👯 Actively open for collaborations related to project/community.
 - 📫 More about me: [soham2512.github.io](https://soham2512.github.io/)
 - 😄 Pronouns: He/His
 
