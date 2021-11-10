@@ -14,7 +14,7 @@
 <hr>
 <p align="center">
   <i>You can connect with me here!</i>
-  <p align="center" style="color:blue">
+  <p align="center" background-color:grey;">
     <a href="https://twitter.com/soham___shah" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
     <a href="https://www.linkedin.com/in/sohamshah2512" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://github.com/soham2512" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
