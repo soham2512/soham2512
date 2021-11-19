@@ -13,6 +13,20 @@
 
 <hr>
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham2512&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
+
+<p align=center>
+<img height="25" src="https://badges.pufler.dev/visits/ruch798/soham2512?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=soham2512&color=brightgreen" />
+<a href="https://github.com/soham2512">
+</a>
+</p>
+
+
+
+<hr>
+<p align="center">
   <i>You can connect with me here!</i>
   <p align="center" background-color:grey;">
     <a href="https://twitter.com/soham___shah" alt="Twitter"><img height="32" width="32" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
@@ -24,4 +38,6 @@
 </p>
 
 <hr>
+                                                                                                                                              
+                                                                                                                                              
 
