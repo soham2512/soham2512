@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/soham2512](https://github.com/soham2512)
 
-- 💬 Ask me about **Python,JavaScript, Machine Learning,React.JS**
+- 💬 Ask me about **Python,JavaScript, Machine Learning, Data Analysis and React.JS**
 
 - 📫 How to reach me **shahsoham2512@gmail.com**
 
