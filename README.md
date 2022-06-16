@@ -1,7 +1,7 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Soham Shah <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
-          </h1> width="45" />
+         height="45" width="45" />
+          </h1> 
 
 <hr>
 
