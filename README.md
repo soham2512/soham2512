@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Soham Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Soham Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px"> ! </h1>
 
 <hr>
 
