@@ -7,19 +7,19 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
-- 🔭 I’m currently working as a Team Leader at Google Student Developer Clubs (university of windsor)
+- 🔭 I’m currently working as a Software Engineer Intern @ TD Bank Group
 
-- 🌱 I’m currently learning **Almost Everything 🤣**
+- 🌱 I’m currently learning **Almost Everything 🤣**, Data Engineering and Web Dev using React JS and Node JS.
 
 - 👨‍💻 All of my projects are available at [https://github.com/soham2512](https://github.com/soham2512)
 
-- 💬 Ask me about **Python,JavaScript, Machine Learning, Data Analysis and React.JS**
+- 💬 Ask me about **Python,JavaScript, Machine Learning, Data Analysis (Data Engineering) and React.JS**
 
 - 📫 How to reach me **shahsoham2512@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohamshah2512/](https://www.linkedin.com/in/sohamshah2512/)
 
-- ⚡ Fun fact **I love to code**
+- ⚡ Fun fact **I love to code and work in collaborative team enviornment**
 
 
 <hr>
